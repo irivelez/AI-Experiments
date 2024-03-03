@@ -3,10 +3,10 @@
 
 The repo should contain at least four folders:
 
-Scripts: contains all your scripts.
-Output: contains the outputs or results generated with AI
-Stores: contains all the data sets used. If files are "too big" for GitHub, include a document describing where people can access the data.
-Views: contains all figures and tables.
+- Scripts: contains all your scripts.
+- Output: contains the outputs or results generated with AI
+- Stores: contains all the data sets used. If files are "too big" for GitHub, include a document describing where people can access the data.
+- Views: contains all figures and tables.
 
 # Some general instructions
 Instructions

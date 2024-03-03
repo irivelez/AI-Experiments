@@ -13,3 +13,4 @@ Instructions
 
 Environment: Conda Environment myenv
 OpenAPI Account: university email - API Key
+ Set up your API Key: https://platform.openai.com/docs/quickstart?context=python

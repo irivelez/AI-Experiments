@@ -1,0 +1,55 @@
+Host: Elabusca
+Guests:
+- Dr. Bruce McMaster (Presidente primro la manana maritokusta naki Tipo Yamaco de la Toba)
+- Dr. Juan Gabriel Sendales (Director de la Fonda Cion Cardo Infantil)
+- Lina Morales (Directora Colombia Health Tech)
+- Dr. Carlos Felipe (Director del Joe de la Bosque)
+
+Transcript Summary:
+1. The use of technology in the health industry is an important topic of discussion.
+2. There is a need to integrate technology and improve healthcare in Colombia.
+3. The presence and coverage of healthcare services in Colombia's rural areas need improvement.
+4. The use of technology can help in addressing the challenges faced by the health industry.
+5. The health team should consider various technology and architecture solutions to improve the healthcare system.
+6. Technological capacity and advancements in Colombia's health sector are important for reform.
+7. The responsibility of the healthcare industry in Colombia lies with the professionals and institutions.
+8. The health tech sector in Colombia is growing and has the potential for innovation and improvement.
+9. The role of data and technology in improving healthcare services is crucial.
+10. Telehealth and telemedicine have proven to be effective in providing healthcare services.
+11. Access to technology and building trust among the population are important factors in implementing telehealth.
+12. Incorporating technology in healthcare systems can lead to a transformation and improvement of the sector.
+13. Incremental steps should be taken in implementing technology solutions in healthcare institutions.
+14. Artificial intelligence and deep learning technologies have significant potential in improving healthcare services.
+15. The use of data analytics and machine learning can enhance healthcare decision-making.
+16. The integration of technology into healthcare systems should not neglect the human touch and personalized care.
+17. Telemonitoring can be a valuable tool for patients and healthcare providers.
+18. The implementation of telehealth services should consider the trust and confidence of patients.
+19. Complementary platforms, such as WhatsApp and online consultations, can enhance healthcare services.
+20. The consolidation of efforts from both public and private sectors is crucial for the successful implementation of technology in healthcare.
+
+Highlighted Quotes:
+- "El telemanitoreo es una herramienta que puede mejorar la atención médica."
+- "La confianza de los pacientes es fundamental en la teleconsulta."
+- "La tecnología puede complementar y mejorar la atención médica física."
+- "Es necesario implementar protocolos y políticas para garantizar la calidad de los servicios de salud."
+- "La integración de la tecnología en los sistemas de salud es un camino complejo pero necesario."
+
+Definitions:
+- Telemanitoreo: Telemonitoring, a tool that can improve healthcare by remotely monitoring patients' health.
+- Teleconsulta: Teleconsultation, the provision of healthcare services through remote communication technology.
+
+People Mentioned:
+1. Dr. Bruce McMaster: Presidente primro la manana maritokusta naki Tipo Yamaco de la Toba.
+2. Dr. Juan Gabriel Sendales: Director de la Fonda Cion Cardo Infantil.
+3. Lina Morales: Directora Colombia Health Tech.
+4. Dr. Carlos Felipe: Director del Joe de la Bosque.
+5. Dr. Alejandro Gaviria: Former Minister of Health in Colombia.
+6. Gabriel Mesa: Representative of a healthcare organization.
+7. Fernando: Mentioned as part of the conversation on pension reform.
+
+Technology and Architecture Solutions:
+1. Implementation of telehealth and telemedicine platforms.
+2. Adoption of artificial intelligence and machine learning algorithms for healthcare decision-making.
+3. Integration of telemonitoring systems for remote patient monitoring.
+4. Development of complementary platforms for online consultations and communication.
+5. Implementation of data analytics tools for health data analysis and insights.

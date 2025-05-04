@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": null,
    "id": "161c6180-2990-43a0-bbea-af8b0ea9405d",
    "metadata": {},
    "outputs": [
@@ -10,20 +10,19 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "zsh:1: command not found: pip\n"
+      "Hello, Irina!\n"
      ]
     }
    ],
    "source": [
-    "!pip install --user langchain==0.0.310 \\\n",
-    "                    google-cloud-aiplatform==1.35.0 \\\n",
-    "                    prettyprinter==0.18.0 \\\n",
-    "                    wikipedia==1.4.0 \\\n",
-    "                    chromadb==0.3.26 \\\n",
-    "                    tiktoken==0.5.1 \\\n",
-    "                    tabulate==0.9.0 \\\n",
-    "                    sqlalchemy-bigquery==1.8.0 \\\n",
-    "                    google-cloud-bigquery==3.11.4"
+    "# Task: Personal greeting and age calculator\n",
+    "\n",
+    "name = \"Irina\"  # Replace with your name\n",
+    "print(\"Hello,\", name + \"!\")\n",
+    "\n",
+    "age = input(\"How old are you? \")\n",
+    "age = int(age)\n",
+    "print(\"Next year, you will be\", age + 1, \"years old.\")"
    ]
   },
   {
@@ -37,7 +36,7 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
+   "display_name": "base",
    "language": "python",
    "name": "python3"
   },
